@@ -1,15 +1,12 @@
 # json-reader-guseynov
 
-*add project short description*
-
-## Accessing the library
-
-*How to access the code*
+*Otus Data Engineering first Spark homework.*
 
 ## Documentation
 
-*A link to the documentation*
+*For running the app*
+1. Build fat jar with sbt assembly
+2. Launch the app with /path/to/spark/bin/spark-submit --master local --class path/to/JsonReader \
+/path/to/assembly-jar {path/to/winemag.json}
 
-## How to contribute
-
-*How others can contribute to the project*
+Json file can be downloaded by https://storage.googleapis.com/otus_sample_data/winemag-data.json.tgz
