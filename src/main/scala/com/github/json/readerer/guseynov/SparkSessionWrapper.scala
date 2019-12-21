@@ -1,4 +1,4 @@
-package com.githgithub.json.readerer.guseynov
+package com.github.json.readerer.guseynov
 
 import org.apache.spark.sql.SparkSession
 
