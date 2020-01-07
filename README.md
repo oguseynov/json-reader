@@ -1,7 +1,6 @@
 # json-reader-guseynov
 
-*Otus Data Engineering first Spark homework.*
-Simple json reader app. 
+Simple Spark json reader app. 
 
 ## Documentation
 
